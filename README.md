@@ -1,6 +1,6 @@
 # Anastasia Kryuchkova
 
-Добрый день! Это репозиторий для публикации заданий!
+Добрый времени суток! Это репозиторий для публикации заданий!
 
 # Тема 1
 ![alt text](https://github.com/nestessia/nestessia.github.io/blob/main/ИСР%201.2%20Крючкова%20А.С%202.1.jpg?raw=true)
