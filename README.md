@@ -4,7 +4,7 @@
 
 # Тема 1
 ### ИСР 1.2
-![Alt text](https://github.com/nestessia/nestessia-repository/blob/51f20febe55afcdc6e8230512c8f0f5005e41ef4/%D0%98%D0%A1%D0%A0%201.2%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.jpg)
+![Alt text](https://github.com/nestessia/nestessia-repository/blob/51f20febe55afcdc6e8230512c8f0f5005e41ef4/%D0%98%D0%A1%D0%A0%201.2%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.jpg?raw=true "Optional Title")
 
 # Тема 2
 
