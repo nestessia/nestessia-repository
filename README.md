@@ -16,7 +16,6 @@
 # ![alt text](https://github.com/nestessia/nestessia.github.io/blob/main/ИСР%201.5%20%20Крючкова%20А.С%202.1.jpg)
 # Тема 4
 
-
 # Тема 5
 
 
