@@ -4,7 +4,7 @@
 
 # Тема 1
 ### ИСР 1.2
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1_yNdJMrDhWsvY37Uk2LWHOLg4ISGBTxc%2Fview%3Fusp%3Dsharing&4&0" width="180" height="180" border="0" title="QR код"></a>
+![Screenshot](https://github.com/nestessia/nestessia-repository/blob/main/ИСР%201.2%20Крючкова%20А.С%202.1.jpg)
 
 # Тема 2
 
