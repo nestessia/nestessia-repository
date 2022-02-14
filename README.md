@@ -11,7 +11,7 @@
 
 # Тема 3
 ### ИСР 1.4 
-![Alt text](https://github.com/nestessia/nestessia-repository/blob/a5934456e1ae11617de083fb8c73027028ac7fce/%D0%98%D0%A1%D0%A0%201.4%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.jpg)
+
 ### ИСР 1.5
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F18gyOAYOVSFzT9RpMTfsnh09HeDkbbZxB%2Fview%3Fusp%3Dsharing&4&0" width="180" height="180" border="0" title="QR код"></a>
 # Тема 4
