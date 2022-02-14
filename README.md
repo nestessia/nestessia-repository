@@ -4,14 +4,14 @@
 
 # Тема 1
 ### ИСР 1.2
-![alt text](https://github.com/nestessia/nestessia.github.io/blob/main/ИСР%201.2%20Крючкова%20А.С%202.1.jpg?raw=true)
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1_yNdJMrDhWsvY37Uk2LWHOLg4ISGBTxc%2Fview%3Fusp%3Dsharing&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 # Тема 2
 
 
 # Тема 3
 ### ИСР 1.4 
-![alt text](https://github.com/nestessia/nestessia.github.io/blob/main/ИСР%201.4%20Крючкова%20А.С%202.1.jpg?raw=true)
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F198SIeLke8iQj6NOSVWp_dWMojgRZn-If%2Fview%3Fusp%3Dsharing&4&0" width="180" height="180" border="0" title="QR код"></a>
 ### ИСР 1.5
 # ![alt text](https://github.com/nestessia/nestessia.github.io/blob/main/ИСР%201.5%20%20Крючкова%20А.С%202.1.jpg?raw=true)
 # Тема 4
