@@ -4,7 +4,7 @@
 
 # Тема 1
 ### ИСР 1.2
-![Alt text](https://github.com/nestessia/nestessia-repository/blob/53cbf6eb82e94289fbaccf2ea8e0b8700a0b20ea/%D0%98%D0%A1%D0%A0%201.2%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.jpg)
+![Alt text](ИСР 1.2 Крючкова А.С 2.1.jpg?raw=true "Optional Title")
 
 # Тема 2
 
