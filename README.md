@@ -19,7 +19,7 @@
 #### Я выбрала данный информационный ресурс по охране труда программиста, потому что в нем в полной мере рассказаны основные особенности, требования перед началом, во время и по завершению работы, а также требования охраны труда при аварийных ситуациях.
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fkubts.ru%2Fdokumenty%2Fobraztsy-dokumentov-po-okhrane-truda%2Fobuchenie-po-okhrane-truda%2Finstruktsii-po-okhrane-truda%2Finstruktsiya-po-okhrane-truda-dlya-programmista%2F&4&0" width="244" height="244" border="0" title="QR код"></a>
 ### ИСР 1.7 
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?http%3A%2F%2Fwww.consultant.ru%2Fdocument%2Fcons_doc_LAW_58804%2Fe14327394d63c4f451508a6f2d1ae0c7d73e9359%2F&4&0" width="196" height="196" border="0" title="QR код"></a>
+![alt text](http://qrcoder.ru/code/?http%3A%2F%2Fwww.consultant.ru%2Fdocument%2Fcons_doc_LAW_58804%2Fe14327394d63c4f451508a6f2d1ae0c7d73e9359%2F&4&0)
 # Тема 5
 
 
