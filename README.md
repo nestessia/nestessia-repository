@@ -26,6 +26,7 @@
 
 
 # Тема 6
-
+### ВСР 2.2
+![Alt text](https://github.com/nestessia/nestessia-repository/blob/6844be71dc8895bd5a8965e7d939d6f625fffccb/2.2%20%D0%92%D0%A1%D0%A0%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.gif?raw=true "Optional Title")
 
 
