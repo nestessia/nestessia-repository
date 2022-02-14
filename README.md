@@ -18,7 +18,8 @@
 ### ИСР 1.6 
 #### Я выбрала данный информационный ресурс по охране труда программиста, потому что в нем в полной мере рассказаны основные особенности, требования перед началом, во время и по завершению работы, а также требования охраны труда при аварийных ситуациях.
 ![alt text](https://github.com/nestessia/nestessia.github.io/blob/main/ИСР%201.6%20Крючкова%20А.С%202.1.jpg?raw=true)
-# ![alt text](https://github.com/nestessia/nestessia-repository/blob/main/ИСР%201.7%20Крючкова%20А.С%202.1.jpg?raw=true)
+### ИСР 1.7 
+![alt text](https://github.com/nestessia/nestessia-repository/blob/main/ИСР%201.7%20Крючкова%20А.С%202.1.jpg?raw=true)
 # Тема 5
 
 
