@@ -3,11 +3,12 @@
 Добрый времени суток! Это репозиторий для публикации заданий!
 
 # Тема 1
+[ИСР 1.1](https://github.com/nestessia/nestessia-repository/blob/2b87c30fa64df71b100407d79629ad59793cbe68/%D0%98%D0%A1%D0%A0%201.1%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202.1.pdf)
+
 [ИСР 1.2](https://github.com/nestessia/nestessia-repository/blob/5912f56ced0ef48d2f202418118da176aa4602bc/%D0%98%D0%A1%D0%A0%201.2%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
 
-[ИСР 1.3](https://github.com/nestessia/nestessia-repository/blob/089e2a66c10c845618eafdb444e300a086518ced/%D0%98%D0%A1%D0%A0%201.3%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
 # Тема 2
-
+[ИСР 1.3](https://github.com/nestessia/nestessia-repository/blob/089e2a66c10c845618eafdb444e300a086518ced/%D0%98%D0%A1%D0%A0%201.3%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
 
 # Тема 3
 [ИСР 1.4](https://github.com/nestessia/nestessia-repository/blob/1c244a85900ea3cf8f6bcf3e0523826ab363fe6b/%D0%98%D0%A1%D0%A0%201.4%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
