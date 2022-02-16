@@ -9,10 +9,9 @@
 
 
 # Тема 3
-### ИСР 1.4 
-![Alt text](https://github.com/nestessia/nestessia-repository/blob/d6564d7c6a2c66dac8ae7c44de3aa1ab37f85db7/%D0%98%D0%A1%D0%A0%201.4%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.jpg?raw=true "Optional Title")
-### ИСР 1.5
-![Alt text](https://github.com/nestessia/nestessia-repository/blob/09f9227e848cbb72dfda9b62fd7c101e31eeee9f/%D0%98%D0%A1%D0%A0%201.5%20%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.jpg?raw=true "Optional Title")
+[ИСР 1.4](https://github.com/nestessia/nestessia-repository/blob/1c244a85900ea3cf8f6bcf3e0523826ab363fe6b/%D0%98%D0%A1%D0%A0%201.4%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
+
+[ИСР 1.6](https://github.com/nestessia/nestessia-repository/blob/1c244a85900ea3cf8f6bcf3e0523826ab363fe6b/%D0%98%D0%A1%D0%A0%201.5%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202.1.pdf)
 # Тема 4
 ### ИСР 1.6 
 #### Я выбрала данный информационный ресурс по охране труда программиста, потому что в нем в полной мере рассказаны основные особенности, требования перед началом, во время и по завершению работы, а также требования охраны труда при аварийных ситуациях.
