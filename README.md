@@ -21,6 +21,8 @@
 [ИСР 1.7](http://www.consultant.ru/document/cons_doc_LAW_58804/e14327394d63c4f451508a6f2d1ae0c7d73e9359/)
 
 [ИСР 1.8](https://github.com/nestessia/nestessia-repository/blob/b93bf70a5790ee659844d236ec8cc0b48ef17ede/%D0%98%D0%A1%D0%A0%201.8%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202.1.pdf)
+
+[ИСР 1.9](https://github.com/nestessia/nestessia-repository/blob/b023bd951037d1f6c1bb54bb1853e0a4454adc85/%D0%98%D0%A1%D0%A0%201.9%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
 # Тема 5
 [ИСР 1.11](https://github.com/nestessia/nestessia-repository/blob/8bb7b294e3eb5fc2241ec1e630aecdeafc5d50aa/%D0%98%D0%A1%D0%A0%201.11%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
 
