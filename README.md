@@ -33,3 +33,5 @@
 [ВСР 2.2](https://github.com/nestessia/nestessia-repository/blob/87119328038b2921bc0bbf69475518a9e43210f0/2.2%20%D0%92%D0%A1%D0%A0%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
 
 [ВСР 2.3](https://github.com/nestessia/nestessia-repository/blob/9d2daf2b9d9e9738f1e60c9a900473af109932bc/%D0%92%D0%A1%D0%A0%202.3%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202.1.pdf)
+
+[ВСР 2.4](https://github.com/nestessia/nestessia-repository/blob/eb100d4b7c264ab9e3a216308d874ab20842b18e/%D0%92%D0%A1%D0%A0%202.4%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
