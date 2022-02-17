@@ -28,6 +28,8 @@
 
 
 # Тема 6
+[ВСР 2.1](https://github.com/nestessia/nestessia-repository/blob/8fd613db0f4ef998175a25877110fa7f86d679a9/%D0%92%D0%A1%D0%A0%202.1%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%20%D0%98%D0%92%D0%A2%202.1.pdf)
+
 [ВСР 2.2](https://github.com/nestessia/nestessia-repository/blob/87119328038b2921bc0bbf69475518a9e43210f0/2.2%20%D0%92%D0%A1%D0%A0%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
 
 
