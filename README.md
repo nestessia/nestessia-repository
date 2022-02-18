@@ -38,7 +38,7 @@
 
 [ВСР 2.4](https://github.com/nestessia/nestessia-repository/blob/eb100d4b7c264ab9e3a216308d874ab20842b18e/%D0%92%D0%A1%D0%A0%202.4%20%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%90.%D0%A1%202.1.pdf)
 
-#ДОКУМЕНТЫ ДЛЯ ПРАКТИКИ
+# ДОКУМЕНТЫ ДЛЯ ПРАКТИКИ
 [Задание на практику](https://github.com/nestessia/nestessia-repository/blob/7f56f6267b7a8778c155b68056a61e36027ac02b/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83.pdf)
 
 [Отчет по практике](https://github.com/nestessia/nestessia-repository/blob/7f56f6267b7a8778c155b68056a61e36027ac02b/%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.pdf)
